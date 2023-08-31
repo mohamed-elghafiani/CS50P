@@ -6,8 +6,8 @@ from random import randint
 
 code = randint(1000, 9999)
 
-email = "medlee38@gmail.com"
-password = "rbeefekhngmenrdp"
+email = "email"
+password = "app-password"
 
 message = MIMEMultipart("alternative")
 
